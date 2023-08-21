@@ -1,0 +1,36 @@
+body{
+    background-color:black;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Fascinate', cursive;
+    color: rgb(223, 80, 24);
+    font-size: 70px;
+    margin-top: -20px;
+}
+
+
+.small{
+    height: 20px;
+    width: 150px;
+    background-color: white;
+    color: black;
+    margin-left: 610px;
+    font-weight: 900;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+#canvas{
+    background-color: beige;
+    width:1200px;
+     height:400px;
+}
+.Kalvium{
+    color: white;
+}
+
+body{
+    color: white;
+}
